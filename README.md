@@ -27,6 +27,7 @@ Bitcoin Core: Ensure you have a running instance of Bitcoin Core with the bitcoi
 
 Python Libraries: Install bitcoinlib, mnemonic, and other required libraries using pip.
 
+Inline `code` has `back-ticks around` it.
 # 'pip install bitcoinlib mnemonic'
 
 
