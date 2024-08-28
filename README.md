@@ -6,6 +6,7 @@ Permutations, Blockchain, Access
 Blockchain is a legendary way to access any device via perfect math! Attempting all possible solutions via derivation paths.
 
 
+
 Conceptual Overview
 Bitcoin Source Code Integration: Use the Bitcoin Core libraries for key management, cryptographic operations, and handling blockchain-related tasks.
 
@@ -25,6 +26,9 @@ Prerequisites
 Bitcoin Core: Ensure you have a running instance of Bitcoin Core with the bitcoin-cli available.
 
 Python Libraries: Install bitcoinlib, mnemonic, and other required libraries using pip.
+
+pip install bitcoinlib mnemonic
+
 
 Explanation
 Bitcoin Core Integration: The code uses bitcoin-cli to interact with Bitcoin Core, checking information about the derived addresses on the blockchain.
